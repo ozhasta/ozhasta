@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-I am a self-taught software developer and chess player based in Istanbul, Turkey. I've been running a recipe blog at [GizliTarif.com](https://www.gizlitarif.com)[^1] since 2011.
+I am a self-taught software developer and chess player based in Istanbul, Turkey. I've been running a recipe blog at GizliTarif.com[^1] for a solid 15 years (2011–2026).
 
 In its first few years, the blog was surprisingly popular—reaching **8k to 12k daily visitors**. That was until Google 🤖 heavily penalized my aggressive SEO experiments. Looking back, I did a lot of experiments that went wrong, but learned a ton along the way.
 
