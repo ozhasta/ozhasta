@@ -1,42 +1,61 @@
+---
 
-### Hello,
+### Hi there! 👋
 
-I am a self-taught software developer and chess player; living in Istanbul, Turkey. I have a recipes blog at: [GizliTarif.com](https://www.gizlitarif.com)[^1] since 2011.
-My blog was suprisingly populer at first couple years (daily 8k - 12k users). Once upon a time, Google🤖 punished my SEO experiments badly. I did a lot of experiments that went wrong.
+I am a self-taught software developer and chess player based in Istanbul, Turkey. I've been running a recipe blog at [GizliTarif.com](https://www.gizlitarif.com)[^1] since 2011.
 
-My story started in mid 90's, there was a pitch black screen[^2]. It was extraordinarily exciting for me the computer to understanding the commands I typed on this black screen and responding to me. Today, I am still trying to communicate with computers and still feeling very excited about it.
+In its first few years, the blog was surprisingly popular—reaching **8k to 12k daily visitors**. That was until Google 🤖 heavily penalized my aggressive SEO experiments. Looking back, I did a lot of experiments that went wrong, but learned a ton along the way.
 
-I built my first website; one year after, "year 2000 problem[^3]". Website was about a game, called "Outlive[^4]". I created the game's wiki page using HTML by translating the game mechanics into Turkish.
+---
 
-Computers have always been a passion for me but software development was just a hobby until the end of 2021. I've decided to build my career on front-end web development from now on, and that's what I'm working towards.
+### 🚀 My Journey
 
-I use Win11 as the main OS, but occasionally; distro hopping. My favorite distro is Arch and favorite desktop environment is KDE Plasma.
+* **The Spark (Mid-90s):** My story started in front of a pitch-black screen[^2]. Seeing the computer understand the commands I typed and respond back was extraordinarily exciting. Decades later, I’m still communicating with computers, and that spark is as strong as ever.
+* **First Web Page (2001):** A year after the "Y2K bug"[^3], I built my very first website. It was a fan wiki for a strategy game called *Outlive*[^4], where I translated the game mechanics into Turkish using plain HTML.
+* **The Shift (Late 2021):** Computers have always been my passion, but software development remained just a hobby until late 2021. That’s when I decided to turn it into a full-time career, focusing on **front-end web development**.
 
-Tech stack I currently use for web development: React / Next JS, Astro JS, Bootstrap, Wordpress, Git, NPM
+---
+
+### 🛠️ Tech & Tools
+
+* **Front-End & Core:** React, Next.js, Astro, Bootstrap, WordPress, Git, npm
+* **Environment:** Windows 11 as my daily driver, though I enjoy distro-hopping from time to time. My favorite Linux distro is **Arch**, and my desktop environment of choice is **KDE Plasma**.
+
+---
 
 <details>
-<summary>Looks like fun facts are pretty popular on GitHub profile pages, if you have time, check this out:</summary>
+<summary>💡 <b>Fun Facts & Hardware Disasters (Click to expand)</b></summary>
+<br>
 
-In 2001, I updated the BIOS of my computer's motherboard with another brand's motherboard, and the computer did not turn on (POST) again until it was sent for service. The service almost charged me for a new motherboard and reprogrammed the BIOS chip with an external device. Lesson learned? Let's see.
+* **2001:** I flashed my motherboard's BIOS with a file meant for another brand. The PC died instantly (no POST). The service center charged me almost the price of a new motherboard just to reprogram the BIOS chip using an external flasher.  
+  *Lesson learned? Let's see.*
 
-In 2009, I overclocked my laptop's external GPU, causing it to overheat and break beyond repair. Lesson learned? Let's see.
+* **2009:** I overclocked my laptop's dedicated GPU, causing it to overheat and die permanently.  
+  *Lesson learned? Let's see.*
 
-In 2019, I tried to overclock the newly purchased desktop computer's GeForce GTX 1050 TI graphics card by editing its BIOS and writing it to the chip. However, I corrupted the voltage values of the chip, causing the video card to be inoperable with any motherboard. Lesson learned? Let's see.
+* **2019:** I tried to overclock a brand-new desktop GTX 1050 Ti by modifying its BIOS directly and flashing the chip. I messed up the voltage values, bricking the GPU completely across all motherboards.  
+  *Lesson learned? Let's see.*
 
-I remembered what happened to me in 2001, and in 2019, I had an idea that there might be devices on the market that could write chips externally. I googled a few questions, read some articles, and found a device[^5] that I bought. Although it might have worked in theory, I had no idea what I was doing. I also asked a few questions on YouTube and watched videos. Then I found the original BIOS of my video card on the internet, downloaded it, and plugged this newly purchased device into another working computer. I used the original BIOS file and the device to reprogram the chip with information I had learned from YouTube videos 15 minutes earlier. 🎉Hooray!🎉 My GPU started working again.
+**The Plot Twist:**  
+Remembering what happened back in 2001, I searched for an external EEPROM programmer, found an inexpensive device[^5], and ordered it. I had zero experience, but after watching a few YouTube tutorials and reading forums, I hooked up the programmer to another PC, downloaded the original BIOS ROM, and reflashed the chip.  
 
-At first glance, people may think that I haven't learned a lesson from these experiences because I will break things again, right? Or at least the lesson that I learned is "you shouldn't break things you don't know about by playing with curiosity." Wrong!
+🎉 **It worked!** The GPU came back to life in 15 minutes.
 
-These were exciting things for me to learn. A little detail that I learned from the service disaster that happened to me in 2001 turned into a miracle 18 years later. Break, build, repeat. That's the lesson for me...
+You might think I never learned my lesson because I kept breaking expensive hardware. Or maybe the takeaway should have been *"don't tinker with things you don't understand."* 
+
+**Wrong.** 
+
+A small detail I observed during a repair disaster in 2001 turned into a solution 18 years later.  
+**Break, build, learn, repeat.** That’s the real lesson for me.
+
 </details>
 
-[^1]: "Gizli Tarif" means "Secret Recipe" in Turkish.
-[^2]: Black screen: The filename length was limited to 8 characters. Would you believe it? :scream:
-\
+---
+
+[^1]: *"Gizli Tarif"* translates to *"Secret Recipe"* in Turkish.
+[^2]: Back when file names were strictly limited to 8 characters (8.3 format). Remember that? 😱  
 ![MS-DOS](https://user-images.githubusercontent.com/6636688/184540115-df496264-2e02-4341-8f1d-c5edcc826a66.png)
 [^3]: Year 2000 Problem: [Y2K / Millennium Bug](https://en.wikipedia.org/wiki/Year_2000_problem)
-[^4]: Outlive: [Outlive (2001)](https://en.wikipedia.org/wiki/Outlive)
-[^5]: CH341A EEPROM BIOS Flasher  
-\
+[^4]: Outlive: [Outlive (2001 RTS Game)](https://en.wikipedia.org/wiki/Outlive)
+[^5]: CH341A EEPROM BIOS Flasher / Programmer  
 ![CH341A Programmer](https://user-images.githubusercontent.com/6636688/184550630-e2a716df-98ce-49c4-aadc-d2d1a148a009.jpg)
-
