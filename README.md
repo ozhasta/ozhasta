@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-I am a self-taught software developer and chess player based in Istanbul, Turkey. I've been running a recipe blog at GizliTarif.com[^1] for a solid 15 years (2011–2026).
+I am a self-taught software developer and chess player based in Istanbul, Turkey. I ran a recipe blog at GizliTarif.com[^1] for a solid 15 years (2011–2026).
 
 In its first few years, the blog was surprisingly popular—reaching **8k to 12k daily visitors**. That was until Google 🤖 heavily penalized my aggressive SEO experiments. Looking back, I did a lot of experiments that went wrong, but learned a ton along the way.
 
@@ -28,14 +28,11 @@ In its first few years, the blog was surprisingly popular—reaching **8k to 12k
 <br>
 
 * **2001:** I flashed my motherboard's BIOS with a file meant for another brand. The PC died instantly (no POST). The service center charged me almost the price of a new motherboard just to reprogram the BIOS chip using an external flasher.  
-  *Lesson learned? Let's see.*
 
 * **2009:** I overclocked my laptop's dedicated GPU, causing it to overheat and die permanently.  
-  *Lesson learned? Let's see.*
 
-* **2019:** I tried to overclock a brand-new desktop GTX 1050 Ti by modifying its BIOS directly and flashing the chip. I messed up the voltage values, bricking the GPU completely across all motherboards.  
-  *Lesson learned? Let's see.*
-
+* **2019:** I tried to overclock a brand-new GTX 1050 Ti by manually editing and flashing its vBIOS. I miscalculated the voltage values and ended up completely bricking the card.
+  
 **The Plot Twist:**  
 Remembering what happened back in 2001, I searched for an external EEPROM programmer, found an inexpensive device[^5], and ordered it. I had zero experience, but after watching a few YouTube tutorials and reading forums, I hooked up the programmer to another PC, downloaded the original BIOS ROM, and reflashed the chip.  
 
