@@ -47,8 +47,6 @@ A small detail I observed during a repair disaster in 2001 turned into a solutio
 
 </details>
 
----
-
 [^1]: *"Gizli Tarif"* translates to *"Secret Recipe"* in Turkish.
 [^2]: Back when file names were strictly limited to 8 characters (8.3 format). Remember that? 😱  
 ![MS-DOS](https://user-images.githubusercontent.com/6636688/184540115-df496264-2e02-4341-8f1d-c5edcc826a66.png)
